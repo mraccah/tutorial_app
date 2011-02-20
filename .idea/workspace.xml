@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75716e45-7517-41a1-8d7b-6d3c436f9b37" name="Default" comment="cascading style">
+    <list default="true" id="75716e45-7517-41a1-8d7b-6d3c436f9b37" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
     </list>
     <ignored path="sample_app.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -576,7 +575,7 @@
     <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="dynamic titles" />
+    <option name="LAST_COMMIT_MESSAGE" value="cascading stylesheet added to application.html" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -595,6 +594,7 @@
     <MESSAGE value="Added rspec. Static pages now with dynamic titles." />
     <MESSAGE value="Added version number." />
     <MESSAGE value="dynamic titles" />
+    <MESSAGE value="cascading stylesheet added to application.html" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
