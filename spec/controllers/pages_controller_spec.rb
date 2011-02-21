@@ -6,8 +6,6 @@ describe PagesController do
 
   before(:each) do
     @base_title = "Twitty"
-
-    puts "in pages controller"
   end
 
   describe "GET 'home'" do
