@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list id="75716e45-7517-41a1-8d7b-6d3c436f9b37" name="Default" comment="" />
     <list default="true" id="aa563e69-b8ac-4bf3-aa41-7bc2ae9da6b0" name=".idea" comment="Finished layouts and routes">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/users_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/helpers/users_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/controllers/users_controller_spec.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sample_app.iws" />
