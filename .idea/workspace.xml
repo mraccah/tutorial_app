@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list id="75716e45-7517-41a1-8d7b-6d3c436f9b37" name="Default" comment="" />
-    <list default="true" id="aa563e69-b8ac-4bf3-aa41-7bc2ae9da6b0" name=".idea" comment="Added example_user">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/_footer.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/_header.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/_stylesheets.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/pages/help.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/custom.css" />
-      <change type="DELETED" beforePath="C:\Users\Moshik\Documents\RubyProjects\sample_app\example_user.rb" afterPath="" />
+    <list default="true" id="aa563e69-b8ac-4bf3-aa41-7bc2ae9da6b0" name=".idea" comment="Added Routes">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/pages_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/pages_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/pages/home.html.erb" afterPath="$PROJECT_DIR$/app/views/pages/home.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
     </list>
     <ignored path="sample_app.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -663,7 +653,7 @@
     <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added example_user" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Routes" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -687,6 +677,7 @@
     <MESSAGE value="Updated for Spork" />
     <MESSAGE value="working rspec" />
     <MESSAGE value="Added example_user" />
+    <MESSAGE value="Added Routes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
